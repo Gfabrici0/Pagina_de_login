@@ -208,9 +208,3 @@ body{
         bottom: 100%;
     }
 }
-
-@media screen and (max-width: 400px){
-    .login-box{
-        width: calc(50%-40px);
-    }
-}
